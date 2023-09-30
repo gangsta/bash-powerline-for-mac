@@ -1,0 +1,1 @@
+# bash-powerline-for-mac
