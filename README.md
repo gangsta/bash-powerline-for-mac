@@ -24,7 +24,7 @@ Before you begin, ensure that you have the following installed:
 
 Install powerline and optional hstr.
 
-```
+```ruby
 pip3 install powerline-status
 brew install hstr
 ```
@@ -39,7 +39,7 @@ We’ll guide you through the process of creating and adding this file if it’s
 
 Edit bash_profile file, or copy bash_profile file to ~/.bash_profile
 
-```
+```ruby
 vi ~/.bash_profile
 ```
 
@@ -47,7 +47,7 @@ vi ~/.bash_profile
 
 Comment out extras if you need them, and add below code into your bash profile.
 
-```
+```sh
 source ~/.bash_powerline.sh
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
@@ -72,13 +72,13 @@ Below is a sneak peek into a captivating bash Powerline setup that will not only
 
 Add powerline script, or copy bash_powerline.sh to ~/.bash_powerline.sh
 
-```
+```ruby
 vi ~/.bash_powerline.sh
 ```
 
 Add powerline bash config.
 
-```
+```sh
 #!/usr/bin/env bash
 
 ## Uncomment to disable git info
@@ -177,7 +177,7 @@ unset powerline
 
 Set Powerline configuration to be executable.
 
-```
+```ruby
 chmod +x ~/.bash_powerline.sh
 ```
 
@@ -187,7 +187,7 @@ chmod +x ~/.bash_powerline.sh
 
 For those who prefer the classic bash over zsh, we’ve got you covered. Learn how to effortlessly switch your system default shell to bash, ensuring a seamless transition and a familiar environment.
 
-```
+```ruby
 chsh -s /bin/bash
 ```
 
