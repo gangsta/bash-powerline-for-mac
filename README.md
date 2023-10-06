@@ -2,10 +2,7 @@
 
 ![Terminal Screenshot](images/terminal.webp)
 
-<a href="https://medium.com/@karen.haryan">
-  <img align="left" alt="Medium" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/medium.svg" />
-</a>
-Blog post on [Medium](https://medium.com/@karen.haryan/elevate-your-terminal-a-stylish-guide-to-lightweight-and-colorful-bash-powerline-on-mac-7b463d79c2f2).
+:bangbang: Blog post on Medium: [Elevate Your Terminal: A Stylish Guide to Lightweight and Colorful Bash Powerline on Mac](https://medium.com/@karen.haryan/elevate-your-terminal-a-stylish-guide-to-lightweight-and-colorful-bash-powerline-on-mac-7b463d79c2f2). :bangbang:
 
 ## Introduction
 
